@@ -1,0 +1,10 @@
+{
+  "Name": "Fridge Drawings",
+  "Author": "cyanliu",
+  "Version": "1.0.0",
+  "Description": "Now you can hang up your favorite drawings (items) on the face of your fridges!",
+  "UniqueID": "cyanliu.fridgeDrawings",
+  "EntryDll": "Fridge.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
